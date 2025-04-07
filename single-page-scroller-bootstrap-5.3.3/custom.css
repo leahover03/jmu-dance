@@ -1,0 +1,60 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+.bg-primary { background-color:mediumpurple !important; }
+
+
+.bg-primary{background-image:url("assets/NVID2.jpg") !important;
+background-size:cover;
+background-position: center; 
+background-attachment: scroll !important;
+height: 100vh; /* Full height of the viewport */
+  width: 100%;} 
+
+  
+
+h1{ font-family:Fira Code !important; }
+
+h1{text-align:center !important; 
+    font-family: poppins !important;
+    font-size: 35px }
+
+h2{ text-align:center !important; 
+  	font-family: poppins !important;}
+
+h3{ font-family: poppins !important;
+ }
+
+p {font-family: times new roman !important; }
+
+ul {font-family: times new roman !important; }
+
+ul{ font-size:18px !important; }
+
+
+p{ letter-spacing:1px; 
+line-height:1.8 !important; }
+
+td { margin: auto; 
+  border-collapse: collapse; text-align: center;
+} 
+
+.ensembles{ line-height:2px;}
+
+td {
+            border: 3px solid black;
+            padding: 10px;
+            font-size: 14px !imporant;
+        }
+
+
+    .circle-img {
+        width: 170px; /* Set width */
+        height: 150px; /* Set height */
+        border-radius: 20%; /* Makes the image circular */
+        border: 3px solid purple; /* Optional: adds a border around the circle */
+        object-fit: cover; /* Ensures the image fits well inside the circle */
+    }
+
+
+
+
+
